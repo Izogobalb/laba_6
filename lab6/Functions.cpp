@@ -1,6 +1,8 @@
-#include "Euclid.h"
+#include "Functions.h"
 
-cin >> *(a) >> *(b);
+void C_In(int a, int b) {
+    cin >> (a) >> (b);
+}
 
 int Euclid_algorithm(int a, int b) { // a > b
     if (b == 0) {

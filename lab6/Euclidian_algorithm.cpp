@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Euclid.h"
+#include "Functions.h"
 
 int main() {
     int a, b;

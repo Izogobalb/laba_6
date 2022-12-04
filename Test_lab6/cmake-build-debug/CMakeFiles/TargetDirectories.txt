@@ -1,0 +1,3 @@
+/Users/vu1cany/IT/ITMO/DevTools/LAB 5/Tests_for_Console_Calculator/cmake-build-debug/CMakeFiles/Tests.dir
+/Users/vu1cany/IT/ITMO/DevTools/LAB 5/Tests_for_Console_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vu1cany/IT/ITMO/DevTools/LAB 5/Tests_for_Console_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

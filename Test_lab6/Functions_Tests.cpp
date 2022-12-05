@@ -3,7 +3,7 @@
 #include "../lab6//Functions.h"
 
 TEST_CASE() {
-    REQUIRE(Euclid_algorithm(1, 0) == 2);
+    REQUIRE(Euclid_algorithm(1, 0) == 1);
     REQUIRE(Euclid_algorithm(69, 13) == 1);
     REQUIRE(Euclid_algorithm(14, 7) == 7);
     REQUIRE(Euclid_algorithm(7975, 2585) == 55);
